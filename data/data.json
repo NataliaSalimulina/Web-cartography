@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "name": "ino",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {"id": 1, "title": "Козья Слобода-исторический район Казани"},
+            "geometry": {"type": "Point", "coordinates": [49.098647, 55.816678]}
+        },
+        {
+            "type": "Feature",
+            "properties": {"id": 2, "title": "Казанский Государственный Энергетический Университет"},
+            "geometry": {"type": "Point", "coordinates": [49.093972, 55.816455]}
+        }, {
+            "type": "Feature",
+            "properties": {"id": 3, "title": "Казанский Кремль-ОКН ЮНЕСКО"},
+            "geometry": {"type": "Point", "coordinates": [49.105912, 55.799684]}
+        }, {
+            "type": "Feature",
+            "properties": {"id": 4, "title": "Центральный стадион"},
+            "geometry": {"type": "Point", "coordinates": [49.099881, 55.797462]}
+        }, {
+            "type": "Feature",
+            "properties": {"id": 5, "title": "Стадион Казань-Арена - один из 12 стадионов к ЧМ 2018"},
+            "geometry": {"type": "Point", "coordinates": [49.160921, 55.821594]}
+        }
+    ]
+}
